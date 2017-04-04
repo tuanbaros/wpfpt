@@ -1,0 +1,11 @@
+[06-May-2015 01:35:32 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[29-May-2015 23:37:48 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[31-May-2015 09:49:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[01-Jul-2015 14:25:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[19-Aug-2015 16:23:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[20-Aug-2015 13:21:29 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[10-Sep-2015 15:38:47 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[17-Oct-2015 15:28:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[20-Oct-2015 08:24:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[02-Jan-2016 14:20:47 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60
+[17-Jan-2016 12:41:28 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-content/plugins/hello.php on line 60

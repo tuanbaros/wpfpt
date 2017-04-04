@@ -1,0 +1,2 @@
+[25-Aug-2016 08:09:27 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 20:43:23 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/laptruyenhinhfpt/public_html/tongdaifpt.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
